@@ -1,0 +1,5 @@
+1.	Initialize variables for sum, maximum, and minimum.
+2.	Use a for-loop to read ten grades from the user.
+3.	Within the loop, add each grade to the sum and update the maximum and minimum grades.
+4.	Calculate the average grade by dividing the sum by the number of grades.
+5.	Print the average, maximum, and minimum grades.
